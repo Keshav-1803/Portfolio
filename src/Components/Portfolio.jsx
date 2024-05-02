@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TechiSpot",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Contributed to the ”Post” Section: Utilized HTML file tags to enable image or video inputs, showcasing previews beforeadding them along with emoji texts and other features.",
+    url: "https://github.com/Keshav-1803/TechiSpot",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Habit Maker",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Spearheaded the development of Habit Maker, a React-based application, streamlining habit tracking with user-friendlyfeatures for adding, viewing, and deleting daily routines.",
+    url: "https://github.com/Keshav-1803/Habit-Maker",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Account Finder",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Connecting with a GitHub API, retrieving crucial repository details, such as names and links, directly from GitHub.",
+    url: "https://github.com/Keshav-1803/Github_Profile_finder",
   },
 ];
 
