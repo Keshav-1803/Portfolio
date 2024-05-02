@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/Keshav-1803.github.io/Portfolio",
+  "homepage": "https://Keshav-1803.github.io/Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
@@ -33,6 +33,7 @@
     "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "parcel": "^2.7.0",
+    "parcel-bundler": "^1.12.5",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
   }
